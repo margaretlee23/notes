@@ -5,3 +5,4 @@ describe ("#squeeze", function() {
     expect(squeeze("yabba dabba doo")).toBe("yaba daba do");
   });
 });
+
